@@ -419,9 +419,6 @@ bitcoin.treasurebits.net##iframe[src="about:blank"]
 # bing.com
 ||www.bing.com/rms/rms%20answers%20Identity%20SnrWindowsLiveConnectBootstrap/jc,nj/bf587ad6/f1d86b5a.js^$important
 
-# theatlantic.com (not sure about this)
-||www.theatlantic.com^$important,inline-script
-
 #Washington Post
 ||washingtonpost.com/wp-stat/advertising/pseudo-static/^$important
 
